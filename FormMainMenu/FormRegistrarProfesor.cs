@@ -16,5 +16,10 @@ namespace FormMainMenu
         {
             InitializeComponent();
         }
+
+        private void Txtnombre_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

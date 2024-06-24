@@ -8,3 +8,13 @@ C:\Users\mitiel\Desktop\tarea 1 programamcion\TrabajoFinalProgramacion\TrabajoFi
 C:\Users\mitiel\Desktop\tarea 1 programamcion\TrabajoFinalProgramacion\TrabajoFinalProgramacion\obj\Debug\TrabajoFinalProgramacion.exe
 C:\Users\mitiel\Desktop\tarea 1 programamcion\TrabajoFinalProgramacion\TrabajoFinalProgramacion\obj\Debug\TrabajoFinalProgramacion.pdb
 C:\Users\mitiel\Desktop\tarea 1 programamcion\TrabajoFinalProgramacion\TrabajoFinalProgramacion\obj\Debug\TrabajoFinalProgramacion.FormLogin.resources
+C:\Users\carlo\source\repos\proyecto final programación 3\proyecto_final_programacion_3\TrabajoFinalProgramacion\bin\Debug\TrabajoFinalProgramacion.exe.config
+C:\Users\carlo\source\repos\proyecto final programación 3\proyecto_final_programacion_3\TrabajoFinalProgramacion\bin\Debug\TrabajoFinalProgramacion.exe
+C:\Users\carlo\source\repos\proyecto final programación 3\proyecto_final_programacion_3\TrabajoFinalProgramacion\bin\Debug\TrabajoFinalProgramacion.pdb
+C:\Users\carlo\source\repos\proyecto final programación 3\proyecto_final_programacion_3\TrabajoFinalProgramacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\proyecto final programación 3\proyecto_final_programacion_3\TrabajoFinalProgramacion\obj\Debug\TrabajoFinalProgramacion.FormLogin.resources
+C:\Users\carlo\source\repos\proyecto final programación 3\proyecto_final_programacion_3\TrabajoFinalProgramacion\obj\Debug\TrabajoFinalProgramacion.Properties.Resources.resources
+C:\Users\carlo\source\repos\proyecto final programación 3\proyecto_final_programacion_3\TrabajoFinalProgramacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\carlo\source\repos\proyecto final programación 3\proyecto_final_programacion_3\TrabajoFinalProgramacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\proyecto final programación 3\proyecto_final_programacion_3\TrabajoFinalProgramacion\obj\Debug\TrabajoFinalProgramacion.exe
+C:\Users\carlo\source\repos\proyecto final programación 3\proyecto_final_programacion_3\TrabajoFinalProgramacion\obj\Debug\TrabajoFinalProgramacion.pdb

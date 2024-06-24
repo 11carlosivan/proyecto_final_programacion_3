@@ -56,6 +56,7 @@
             this.Txtnombre.Name = "Txtnombre";
             this.Txtnombre.Size = new System.Drawing.Size(100, 20);
             this.Txtnombre.TabIndex = 0;
+            this.Txtnombre.TextChanged += new System.EventHandler(this.Txtnombre_TextChanged);
             // 
             // Txtapellido
             // 
